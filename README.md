@@ -78,3 +78,12 @@ App runs at http://localhost:3000
 ---
 
 ## Environment Variables
+NEXT_PUBLIC_API_URL=https://jobpulse-backend-qtsk.onrender.com
+
+---
+
+## Author
+
+**Tejendra Ayyappa Reddy Syamala**  
+B.E. Computer Science (Data Science) — Sathyabama University, Chennai  
+GitHub: https://github.com/Tejendra-dev
