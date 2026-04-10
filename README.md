@@ -8,7 +8,7 @@
 
 **Live Demo:** https://jobpulse-frontend.vercel.app  
 **Backend API:** https://jobpulse-backend-qtsk.onrender.com  
-**Backend Repo:** https://github.com/Tejendra2004/jobpulse-backend
+**Backend Repo:** https://github.com/Tejendra-dev/jobpulse-backend
 
 ---
 
