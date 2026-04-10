@@ -59,7 +59,7 @@
 
 ### Step 1 — Clone
 ```bash
-git clone https://github.com/Tejendra2004/jobpulse-frontend.git
+git clone https://github.com/Tejendra-dev/jobpulse-frontend.git
 cd jobpulse-frontend
 npm install
 ```
